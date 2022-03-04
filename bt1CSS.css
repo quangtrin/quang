@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+}
+#header{
+    background-color: pink;
+    text-align: center;
+    margin: auto;
+    width: 75%;
+    padding: 20px 150px 20px 150px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    margin-top: 1rem;   
+}
+#header tr td{
+    width: 1rem;
+    background-color: yellow;
+}
+h1{
+    color: red;
+}
